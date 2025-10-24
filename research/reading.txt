@@ -3,3 +3,15 @@
 
 2. Meehan, Tully & Associates (2016) Western Rail Trail: Assessment of Options – Appendix 2. Prepared for the Department of Transport, Tourism and Sport, Dublin. Available at: https://cdn.npf.ie/wp-content/uploads/0402-WRTG.Appendix-2.compressed.pdf
  (Accessed: 13 October 2025).
+
+3. Western Development Commission. (n.d.) Driving Growth in Ireland’s Western Region [online]. Available at: https://westerndevelopment.ie/
+ (Accessed: 24 October 2025).
+
+4. Western Development Commission. (2024) Unlocking Potential, Driving Change: A Strategy for Regional Growth and Collaboration 2025–2029. Ballaghaderreen: Western Development Commission. Available at: https://westerndevelopment.ie/
+ (Accessed: 24 October 2025).
+
+5. Pandas Documentation. (2025) pandas.pivot_table — pandas 2.3.3 documentation [online]. Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html
+ (Accessed: 24 October 2025).
+
+6. Plotly Technologies Inc. (2025) Getting started with Plotly in Python – Jupyter Notebook Support [online]. Available at: https://plotly.com/python/getting-started/#jupyter-notebook-support
+ (Accessed: 24 October 2025).
