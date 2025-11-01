@@ -15,3 +15,12 @@
 
 6. Plotly Technologies Inc. (2025) Getting started with Plotly in Python – Jupyter Notebook Support [online]. Available at: https://plotly.com/python/getting-started/#jupyter-notebook-support
  (Accessed: 24 October 2025).
+
+7. Waskom, M. (2024) seaborn: statistical data visualization — seaborn 0.13.2 documentation [online]. Available at: https://seaborn.pydata.org/
+ (Accessed: 1 November 2025)
+
+8. Matplotlib Development Team. (2025) “Quick start guide — Matplotlib 3.10.5 documentation” [online]. Available at: https://matplotlib.org/stable/users/explain/quick_start.html
+ (Accessed: 1 November 2025).
+
+9. Bhattacharyya, D. (2024) ‘Z-Scores and the Standard Normal Distribution in Python: From Theory to Practice’ [online]. Medium. Available at: https://medium.com/%40bdebika_73918/z-scores-and-the-standard-normal-distribution-in-python-from-theory-to-practice-99f4d3fd7fe9
+ (Accessed: 1 November 2025).
