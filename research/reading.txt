@@ -24,3 +24,13 @@
 
 9. Bhattacharyya, D. (2024) ‘Z-Scores and the Standard Normal Distribution in Python: From Theory to Practice’ [online]. Medium. Available at: https://medium.com/%40bdebika_73918/z-scores-and-the-standard-normal-distribution-in-python-from-theory-to-practice-99f4d3fd7fe9
  (Accessed: 1 November 2025).
+
+10. Rail Map online. (2025) UK & Irish Railways Map [online]. Available at: https://www.railmaponline.com/UKIEMap.php
+ (Accessed: 2 November 2025).
+
+11. Central Statistics Office. (2025) Census through History [online]. Available at: https://www.cso.ie/en/census/censusthroughhistory/
+ (Accessed: 2 November 2025).
+
+ Bibliography:
+University College Cork. (2025) Irish Emigration History – EMIGRE [online]. Available at: https://www.ucc.ie/en/emigre/history/
+ (Accessed: 2 November 2025).
