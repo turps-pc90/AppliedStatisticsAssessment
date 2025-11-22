@@ -1,38 +1,14 @@
-1. Western Development Commission (2024) Bridging the Divide: 25 Years of Transformation in the Western Region. Ballaghaderreen: Western Development Commission. Available at: https://westerndevelopment.ie
- (Accessed: 13 October 2025).
-
-2. Meehan, Tully & Associates (2016) Western Rail Trail: Assessment of Options – Appendix 2. Prepared for the Department of Transport, Tourism and Sport, Dublin. Available at: https://cdn.npf.ie/wp-content/uploads/0402-WRTG.Appendix-2.compressed.pdf
- (Accessed: 13 October 2025).
-
-3. Western Development Commission. (n.d.) Driving Growth in Ireland’s Western Region [online]. Available at: https://westerndevelopment.ie/
+1. Pandas Documentation. (2025) pandas.pivot_table — pandas 2.3.3 documentation [online]. Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html
  (Accessed: 24 October 2025).
 
-4. Western Development Commission. (2024) Unlocking Potential, Driving Change: A Strategy for Regional Growth and Collaboration 2025–2029. Ballaghaderreen: Western Development Commission. Available at: https://westerndevelopment.ie/
+2. Plotly Technologies Inc. (2025) Getting started with Plotly in Python – Jupyter Notebook Support [online]. Available at: https://plotly.com/python/getting-started/#jupyter-notebook-support
  (Accessed: 24 October 2025).
 
-5. Pandas Documentation. (2025) pandas.pivot_table — pandas 2.3.3 documentation [online]. Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html
- (Accessed: 24 October 2025).
-
-6. Plotly Technologies Inc. (2025) Getting started with Plotly in Python – Jupyter Notebook Support [online]. Available at: https://plotly.com/python/getting-started/#jupyter-notebook-support
- (Accessed: 24 October 2025).
-
-7. Waskom, M. (2024) seaborn: statistical data visualization — seaborn 0.13.2 documentation [online]. Available at: https://seaborn.pydata.org/
+3. Waskom, M. (2024) seaborn: statistical data visualization — seaborn 0.13.2 documentation [online]. Available at: https://seaborn.pydata.org/
  (Accessed: 1 November 2025)
 
-8. Matplotlib Development Team. (2025) “Quick start guide — Matplotlib 3.10.5 documentation” [online]. Available at: https://matplotlib.org/stable/users/explain/quick_start.html
+4. Matplotlib Development Team. (2025) “Quick start guide — Matplotlib 3.10.5 documentation” [online]. Available at: https://matplotlib.org/stable/users/explain/quick_start.html
  (Accessed: 1 November 2025).
 
-9. Bhattacharyya, D. (2024) ‘Z-Scores and the Standard Normal Distribution in Python: From Theory to Practice’ [online]. Medium. Available at: https://medium.com/%40bdebika_73918/z-scores-and-the-standard-normal-distribution-in-python-from-theory-to-practice-99f4d3fd7fe9
+5. Bhattacharyya, D. (2024) ‘Z-Scores and the Standard Normal Distribution in Python: From Theory to Practice’ [online]. Medium. Available at: https://medium.com/%40bdebika_73918/z-scores-and-the-standard-normal-distribution-in-python-from-theory-to-practice-99f4d3fd7fe9
  (Accessed: 1 November 2025).
-
-10. Rail Map online. (2025) UK & Irish Railways Map [online]. Available at: https://www.railmaponline.com/UKIEMap.php
- (Accessed: 2 November 2025).
-
-11. Central Statistics Office. (2025) Census through History [online]. Available at: https://www.cso.ie/en/census/censusthroughhistory/
- (Accessed: 2 November 2025).
-
-12. University College Cork. (2025) Irish Emigration History – EMIGRE [online]. Available at: https://www.ucc.ie/en/emigre/history/
- (Accessed: 2 November 2025).
-
-13. Central Statistics Office. (2004) Ireland & the EU: Economic and Social Change 1973-2003 [pdf]. Statistical Yearbook of Ireland 2004. Dublin: Stationery Office. Available at: https://www.cso.ie/en/media/csoie/releasespublications/documents/statisticalyearbook/2004/ireland&theeu.pdf
- (Accessed: 15 November 2025).
