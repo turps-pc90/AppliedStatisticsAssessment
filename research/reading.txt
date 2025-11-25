@@ -12,3 +12,6 @@
 
 5. Bhattacharyya, D. (2024) ‘Z-Scores and the Standard Normal Distribution in Python: From Theory to Practice’ [online]. Medium. Available at: https://medium.com/%40bdebika_73918/z-scores-and-the-standard-normal-distribution-in-python-from-theory-to-practice-99f4d3fd7fe9
  (Accessed: 1 November 2025).
+
+6. Chugani, V. (2024) ‘How to Use NumPy for Probability Distributions’ [online]. Statology. Available at: [https://www.statology.org/how-to-use-numpy-for-probability-distributions/](https://www.statology.org/how-to-use-numpy-for-probability-distributions/) (Accessed: 25 November 2025). ([Statology][1])
+
