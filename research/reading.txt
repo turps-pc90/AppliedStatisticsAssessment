@@ -15,3 +15,5 @@
 
 6. Chugani, V. (2024) ‘How to Use NumPy for Probability Distributions’ [online]. Statology. Available at: [https://www.statology.org/how-to-use-numpy-for-probability-distributions/](https://www.statology.org/how-to-use-numpy-for-probability-distributions/) (Accessed: 25 November 2025). ([Statology][1])
 
+7. Guttag, J. (2016) Lecture 6: Monte Carlo Simulation. In: Introduction to Computational Thinking and Data Science — Fall 2016. Massachusetts Institute of Technology: MIT OpenCourseWare [online]. Available at: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/resources/lecture-6-monte-carlo-simulation/
+ (Accessed: 29 November 2025).
