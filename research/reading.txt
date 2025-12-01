@@ -20,3 +20,6 @@
 
 8. Chosnek, D. (2022) ‘How To Use the Underscore (_) Properly in Python’, Better Programming [Medium], 6 September. Available at: https://medium.com/better-programming/how-to-use-underscore-properly-in-python-37df5e05ba4c
  (Accessed: 29 November 2025).
+
+9. GeeksforGeeks. (2025) ‘P-Value: Comprehensive Guide to Understand, Apply, and Interpret’ [online]. Available at: https://www.geeksforgeeks.org/machine-learning/p-value/
+ (Accessed: 1 December 2025).
