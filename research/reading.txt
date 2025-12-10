@@ -23,3 +23,6 @@
 
 9. GeeksforGeeks. (2025) ‘P-Value: Comprehensive Guide to Understand, Apply, and Interpret’ [online]. Available at: https://www.geeksforgeeks.org/machine-learning/p-value/
  (Accessed: 1 December 2025).
+
+10. James Gilbert (2017) What are degrees of freedom [online video]. YouTube. Available at: https://www.youtube.com/watch?v=rATNoxKg1yA
+ (Accessed: 10 December 2025).
