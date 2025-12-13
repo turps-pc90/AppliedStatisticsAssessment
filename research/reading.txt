@@ -26,3 +26,8 @@
 
 10. James Gilbert (2017) What are degrees of freedom [online video]. YouTube. Available at: https://www.youtube.com/watch?v=rATNoxKg1yA
  (Accessed: 10 December 2025).
+
+11. Penn State Eberly College of Science (n.d.) STAT 200: Elementary Statistics – Lesson 6.1: Type I and Type II Errors. Available at: https://online.stat.psu.edu/stat200/lesson/6/6.1
+
+12. Starmer, J. (2015) Hypothesis testing and p-values. StatQuest with Josh Starmer. Available at: https://www.youtube.com/watch?v=0oc49DyA3hU
+ (Accessed: 13 December 2025).
