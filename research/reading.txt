@@ -28,6 +28,19 @@
  (Accessed: 10 December 2025).
 
 11. Penn State Eberly College of Science (n.d.) STAT 200: Elementary Statistics – Lesson 6.1: Type I and Type II Errors. Available at: https://online.stat.psu.edu/stat200/lesson/6/6.1
+ (Accessed: 13 December 2025)
 
 12. Starmer, J. (2015) Hypothesis testing and p-values. StatQuest with Josh Starmer. Available at: https://www.youtube.com/watch?v=0oc49DyA3hU
  (Accessed: 13 December 2025).
+
+13. Laerd Statistics, 2023. One-way ANOVA using SPSS Statistics. [online] Available at: https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php
+ (Accessed 15 Dec. 2025).
+
+14. SciPy, 2023. scipy.stats.f_oneway. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html
+ (Accessed 15 Dec. 2025).
+
+15. Wikipedia, 2023. Analysis of variance. [online] Available at: https://en.wikipedia.org/wiki/Analysis_of_variance
+ (Accessed 15 Dec. 2025).
+
+16. GeeksforGeeks. (2025) ‘Difference Between T‑Test and ANOVA’ [online]. Available at: https://www.geeksforgeeks.org/data-science/difference-between-t-test-and-anova/
+ (Accessed: 15 December 2025).
