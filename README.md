@@ -1,6 +1,6 @@
 # Applied Statistics Assessment
 
-![Atlantic Technological University - ATU](https://vlegalwaymayo.atu.ie/pluginfile.php/1/core_admin/logo/0x200/1765884670/ATU-Logo-Initial-English-RGB-White.png)
+![Atlantic Technological University - ATU](https://www.atu.ie/app/themes/atu-theme/assets/main/img/layout/logo-full-accent.svg)
 
 ## Assessment Instructions
 
