@@ -54,7 +54,8 @@ Write a short note on why ANOVA is preferred over running several t-tests.
 
 -----
 
-## Technologies Used <a id="techUsed"></a>
+##
+ Technologies Used <a id="techUsed"></a>
 
 | Python | Jupyter Notebook |  NumPy | SciPy | Matplotlib | Seaborn |
 |-------|-------|-------|-------|------------|---------|
@@ -76,12 +77,8 @@ The use of seeds throughout the problems ensures that the output of each task an
 
 ## References <a id="references"></a>
 
-**Pandas Documentation** (2025). *pandas.pivot_table — pandas 2.3.3 documentation* [online].  
-   Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html  
-   (Accessed: 24 October 2025).
-
-**Plotly Technologies Inc.** (2025). *Getting started with Plotly in Python – Jupyter Notebook Support* [online].  
-   Available at: https://plotly.com/python/getting-started/#jupyter-notebook-support  
+**Pandas Documentation** (2025). *pandas 2.3.3 documentation* [online].  
+   Available at: https://pandas.pydata.org/docs/user_guide/index.html#user-guide  
    (Accessed: 24 October 2025).
 
 **NumPy Documentation** (2025). *NumPy Reference — NumPy v1.x Documentation* [online].  
