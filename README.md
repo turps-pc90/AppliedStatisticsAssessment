@@ -2,7 +2,14 @@
 
 ![Atlantic Technological University - ATU](https://www.atu.ie/app/themes/atu-theme/assets/main/img/layout/logo-full-accent.svg)
 
-## Assessment Instructions
+## Table of Contents
+
+- [Assessment Instructions](#assessmentInstructions)
+- [Technologies Used](#techUsed)
+- [Running The Notebook](#usage)
+- [References](#references)
+
+## Assessment Instructions <a id="assessmentInstructions"></a>
 
 ### Problem 1: Extending the Lady Tasting Tea
 
@@ -47,7 +54,7 @@ Write a short note on why ANOVA is preferred over running several t-tests.
 
 -----
 
-#### Technologies Used
+## Technologies Used <a id="techUsed"></a>
 
 | Python | Jupyter Notebook |  NumPy | SciPy | Matplotlib | Seaborn |
 |-------|-------|-------|-------|------------|---------|
@@ -55,4 +62,85 @@ Write a short note on why ANOVA is preferred over running several t-tests.
 
 -----
 
-## Running The Notebook
+## Running The Notebook <a id="usage"></a>
+
+The project is available here - https://github.com/turps-pc90/AppliedStatisticsAssessment - and all files associated with the project are stored in this repository. It can be cloned by using the following command:
+
+<p>git clone https://github.com/turps-pc90/AppliedStatisticsAssessment.git</p>
+
+Install the required dependencies by using the requirements.txt file provided in the GitHub repository.
+
+The use of seeds throughout the problems ensures that the output of each task and the functions within them are reproducible. 
+
+-----
+
+## References <a id="references"></a>
+
+**Pandas Documentation** (2025). *pandas.pivot_table — pandas 2.3.3 documentation* [online].  
+   Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html  
+   (Accessed: 24 October 2025).
+
+**Plotly Technologies Inc.** (2025). *Getting started with Plotly in Python – Jupyter Notebook Support* [online].  
+   Available at: https://plotly.com/python/getting-started/#jupyter-notebook-support  
+   (Accessed: 24 October 2025).
+
+**NumPy Documentation** (2025). *NumPy Reference — NumPy v1.x Documentation* [online].  
+    Available at: https://numpy.org/doc/stable/reference/index.html#reference  
+    (Accessed: 15 December 2025).
+
+**Waskom, M.** (2024). *seaborn: statistical data visualization — seaborn 0.13.2 documentation* [online].  
+   Available at: https://seaborn.pydata.org/  
+   (Accessed: 1 November 2025).
+
+**Matplotlib Development Team** (2025). *Quick start guide — Matplotlib 3.10.5 documentation* [online].  
+   Available at: https://matplotlib.org/stable/users/explain/quick_start.html  
+   (Accessed: 1 November 2025).
+
+**Bhattacharyya, D.** (2024). *Z-Scores and the Standard Normal Distribution in Python: From Theory to Practice* [online]. Medium.  
+   Available at: https://medium.com/@bdebika_73918/z-scores-and-the-standard-normal-distribution-in-python-from-theory-to-practice-99f4d3fd7fe9  
+   (Accessed: 1 November 2025).
+
+**Chugani, V.** (2024). *How to Use NumPy for Probability Distributions* [online]. Statology.  
+   Available at: https://www.statology.org/how-to-use-numpy-for-probability-distributions/  
+   (Accessed: 25 November 2025).
+
+**Guttag, J.** (2016). *Lecture 6: Monte Carlo Simulation*. In: *Introduction to Computational Thinking and Data Science — Fall 2016*.  
+   Massachusetts Institute of Technology: MIT OpenCourseWare [online].  
+   Available at: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/resources/lecture-6-monte-carlo-simulation/  
+   (Accessed: 29 November 2025).
+
+**Chosnek, D.** (2022). *How To Use the Underscore (_) Properly in Python*. Better Programming [Medium], 6 September.  
+   Available at: https://medium.com/better-programming/how-to-use-underscore-properly-in-python-37df5e05ba4c  
+   (Accessed: 29 November 2025).
+
+**GeeksforGeeks** (2025). *P-Value: Comprehensive Guide to Understand, Apply, and Interpret* [online].  
+   Available at: https://www.geeksforgeeks.org/machine-learning/p-value/  
+   (Accessed: 1 December 2025).
+
+**Gilbert, J.** (2017). *What are degrees of freedom* [online video]. YouTube.  
+    Available at: https://www.youtube.com/watch?v=rATNoxKg1yA  
+    (Accessed: 10 December 2025).
+
+**Penn State Eberly College of Science** (n.d.). *STAT 200: Elementary Statistics – Lesson 6.1: Type I and Type II Errors*.  
+    Available at: https://online.stat.psu.edu/stat200/lesson/6/6.1  
+    (Accessed: 13 December 2025).
+
+**Starmer, J.** (2015). *Hypothesis testing and p-values*. StatQuest with Josh Starmer.  
+    Available at: https://www.youtube.com/watch?v=0oc49DyA3hU  
+    (Accessed: 13 December 2025).
+
+**Laerd Statistics** (2023). *One-way ANOVA using SPSS Statistics* [online].  
+    Available at: https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php  
+    (Accessed: 15 December 2025).
+
+**SciPy** (2023). *scipy.stats.f_oneway* [online].  
+    Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html  
+    (Accessed: 15 December 2025).
+
+**Wikipedia** (2023). *Analysis of variance* [online].  
+    Available at: https://en.wikipedia.org/wiki/Analysis_of_variance  
+    (Accessed: 15 December 2025).
+
+**GeeksforGeeks** (2025). *Difference Between T-Test and ANOVA* [online].  
+    Available at: https://www.geeksforgeeks.org/data-science/difference-between-t-test-and-anova/  
+    (Accessed: 15 December 2025).
